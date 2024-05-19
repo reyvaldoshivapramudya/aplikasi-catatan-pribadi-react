@@ -1,8 +1,6 @@
-# React + Vite
+![Screenshot 2024-05-19 200805](https://github.com/reyvaldoshivapramudya/aplikasi-catatan-pribadi-react/assets/106213143/93bb1cbc-70e6-4ef4-af5b-850830463df4)
+Reyvaldo Notes adalah Aplikasi catatan pribadi yang mengutamakan kesederhanaan dan kecepatan. Dirancang untuk Anda yang menginginkan cara mudah dan efisien untuk mencatat ide, tugas, atau momen penting, yang hadir dengan antarmuka yang bersih dan mudah digunakan. Tidak ada fitur berlebihan, hanya alat yang Anda butuhkan untuk mencatat tanpa hambatan.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tools yang saya gunakan : React + Vite
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link : https://reyvaldonotes.vercel.app
